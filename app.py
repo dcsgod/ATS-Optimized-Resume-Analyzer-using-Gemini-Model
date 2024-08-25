@@ -51,12 +51,12 @@ with st.sidebar:
     - [Streamlit](https://streamlit.io/)
     - [Gemini Pro](https://deepmind.google/technologies/gemini/#introduction)
     - [makersuit API Key](https://makersuite.google.com/)
-    - [Github](https://github.com/praj2408/End-To-End-Resume-ATS-Tracking-LLM-Project-With-Google-Gemini-Pro) Repository
+    - [Github](https://github.com/dcsgod/ATS-Optimized-Resume-Analyzer-using-Gemini-Model) Repository
                 
     """)
     
     add_vertical_space(5)
-    st.write("Made with ❤ by Prajwal Krishna.")
+    st.write("Made with ❤ by Ravi Kumar.")
     
     
 
