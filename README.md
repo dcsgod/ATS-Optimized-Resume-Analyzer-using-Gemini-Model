@@ -69,4 +69,4 @@ Happy recruiting with Gemini Pro ATS!
 
 ---
 
-Let me know if you need any further adjustments!
+Thankyou for Visiting the Repo, you can connect with me on socials ❤️
